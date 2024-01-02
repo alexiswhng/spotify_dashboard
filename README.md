@@ -7,7 +7,7 @@ Source: https://www.youtube.com/watch?v=ZSrVOyKAC4Y&ab_channel=PowerBIPark
 This project covered
 - Python scraping and using spotify API
 - PowerBI dashboard designing and formatting using PowerPoint
-- Leveraging PowerBI external toosl like Bravo
+- Leveraging PowerBI external tools like Bravo
 - Leveraging visuals like HTML Content and Deneb Visuals
 
 Final Product:

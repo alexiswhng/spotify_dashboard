@@ -1,4 +1,4 @@
-# spotify_dashboard 
+# Top Tracks on Spotify Dashboard
 
 Created a spotify dashboard using Power BI with advanced visualization techniques. 
 

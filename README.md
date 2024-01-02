@@ -12,6 +12,7 @@ This project covered
 
 Final Product:
 
-![image](https://github.com/alexiswhng/spotify_dashboard/assets/57018350/184ec1e0-a3fb-45ed-8598-da966b7e0138)
+![image](https://github.com/alexiswhng/spotify_dashboard/assets/57018350/b21039c6-23fd-45b5-8583-7efbe8883cd8)
+
 
 
